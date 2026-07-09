@@ -7,8 +7,8 @@
 </head>
 <body>
     <header>
-        <h1>Dados do Financiamento</h1>
-        <hr>
+       
+    
     </header>
     <main>
 </body>
